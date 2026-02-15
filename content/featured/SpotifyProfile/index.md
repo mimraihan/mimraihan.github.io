@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Short-Story-Genre-Prediction-A-Study-Driven-By-Transformer-And-Sequential-Models'
+cover: './demo.jpg'
+github: 'https://github.com/mimraihan/Short-Story-Genre-Prediction-A-Study-Driven-By-Transformer-And-Sequential-Models_THESIS'
+external: ''
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Python
+  - Transformer Models
+  - Sequential Models
+  - NLP
+  - Bangla Bert
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+This project focuses on automatic short story genre classification using Python, leveraging Transformer-based models like BERT and sequential architectures for improved NLP performance.It specifically explores Bangla text analysis with BanglaBERT, comparing deep learning approaches for accurate genre prediction.

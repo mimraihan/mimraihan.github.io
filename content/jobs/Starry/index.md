@@ -1,12 +1,10 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2025-11-01'
+title: 'Research Assistant'
+company: 'Elite Research Lab'
+location: 'USA'
+range: 'Nov 2025 – Present'
+url: 'https://elitelab.ai/'
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+\*Collect, clean, and annotate datasets; maintain experiment hygiene ,Build baselines and simple evaluation scripts for quick comparisons,Document findings and maintain shared repos and dashboards

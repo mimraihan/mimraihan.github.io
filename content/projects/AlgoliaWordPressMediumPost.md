@@ -1,14 +1,20 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2024-03-27'
+title: 'Sexism Classification'
+github: 'https://github.com/mimraihan/-Explainable-Detection-of-Online-Sexism'
+external: ''
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
-showInProjects: true
+  - Python
+  - NLP
+
+  - Deep Learning
+company: ''
+showInProjects: false
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+∗ Built a bidirectional LSTM-based RNN model to identify and categorize sexist content in online
+text data.
+∗ Utilized the EDOS dataset for training and testing, achieving high accuracy in detecting and
+classifying sexist remarks.
+∗ Designed the model to support applications such as social media moderation and community
+management.

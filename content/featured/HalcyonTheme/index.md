@@ -1,15 +1,14 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'QuickTrips - Car Rental System'
+cover: './halcyon.jpg'
+github: 'https://github.com/mimraihan/QUICKTRIPS'
+external: ''
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Django
+  - HTML
+  - CSS
+  - REST APIs
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+QuickTrips is a car rental system that allows users to rent cars from various rental companies. It provides a user-friendly interface for users to search for available cars, book a car, and pay for the rental. The system also provides a dashboard for rental companies to manage their cars and bookings.

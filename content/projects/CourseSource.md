@@ -1,15 +1,20 @@
 ---
-date: '2016-04-01'
-title: 'CourseSource'
-github: 'https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project'
+date: '2024-03-27'
+title: 'Sexism Classification'
+github: 'https://github.com/mimraihan/-Explainable-Detection-of-Online-Sexism'
 external: ''
 tech:
-  - Angular
-  - Node
-  - Express
-  - MongoDB
-company: 'Northeastern'
-showInProjects: false
+  - Python
+  - NLP
+
+  - Deep Learning
+company: ''
+showInProjects: true
 ---
 
-Web application built on the MEAN (MongoDB, Express, Angular, Node) stack with the intention of providing Northeastern students a better experience browsing the courses offered at Northeastern.
+∗ Built a bidirectional LSTM-based RNN model to identify and categorize sexist content in online
+text data.
+∗ Utilized the EDOS dataset for training and testing, achieving high accuracy in detecting and
+classifying sexist remarks.
+∗ Designed the model to support applications such as social media moderation and community
+management.
